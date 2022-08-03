@@ -19,8 +19,8 @@
 	"author": "Janko Dedic (https://github.com/JankoDedic)",
 	"license": "MIT",
 	"dependencies": {
-		"bindings": "^5.0.0",
-		"node-addon-api": "^1.6.3",
+		"bindings": "^1.5.0",
+		"node-addon-api": "^5.0.0",
 		"node-gyp": "^9.1.0"
 	}
 }
